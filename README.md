@@ -1,4 +1,4 @@
-# Calculadora Básica em Python
+# Basic Calculator
 
 Uma calculadora de operações aritméticas (soma, subtração, multiplicação, divisão).
 
